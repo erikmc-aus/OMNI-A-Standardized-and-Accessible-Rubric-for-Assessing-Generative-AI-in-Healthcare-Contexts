@@ -17,7 +17,7 @@ library(irrCAC)
 # ------------------------------------------------------------------------------
 # READ DATA
 # ------------------------------------------------------------------------------
-ds <- read_excel("C:/Users/corn0187/OneDrive - Flinders/R evaluation/Manuscript - Rubric/Stage 3 Data/Section4_evaluation.xlsx")
+ds <- read_excel("Manuscript - Rubric/Stage 3 Data/Section4_evaluation.xlsx")
 
 
 # str(ds)
