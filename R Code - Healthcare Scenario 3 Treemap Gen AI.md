@@ -10,7 +10,7 @@ library(dplyr)
 # READ DATA
 # ------------------------------------------------------------------------------
 data <- read_excel(
-  "C:/Users/corn0187/OneDrive - Flinders/R evaluation/Manuscript - Rubric/Qualitative Outputs/Section 3.xlsx"
+  "Manuscript - Rubric/Qualitative Outputs/Section 3.xlsx"
 )
 
 # ------------------------------------------------------------------------------
