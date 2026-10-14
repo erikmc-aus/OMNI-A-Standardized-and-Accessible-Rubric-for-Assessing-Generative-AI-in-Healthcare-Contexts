@@ -637,7 +637,7 @@ plot_chatgpt <- ggplot(ds_chatgpt, aes(x = Response, fill = Assessor)) +
     axis.title.y.right = element_blank()
   )
 
-# ===== PLOT 2: Gemini Opus 4.1 =====
+# ===== PLOT 2: Gemini 2.5 Pro =====
 plot_gemini <- ggplot(ds_gemini, aes(x = Response, fill = Assessor)) +
   geom_bar(position = position_dodge2(preserve = "single", padding = 0.1), 
            color = "black", width = 0.8) +
